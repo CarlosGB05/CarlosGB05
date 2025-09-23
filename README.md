@@ -2,6 +2,9 @@
 ## Desarrollo de Aplicaciones Multiplataforma (IES Alonso de Ercilla)
 ---
 #### Proyectos desarrolados
+**Proyecto en Java,HTML,CSS,PostgreSQL
+- Gestion de Consolas y Videojuegos
+
 **Proyectos en C# y XAML (Avalonia)**
 - [Gestion de Boligrafos](https://github.com/CarlosGB05/Bindings)
 - Almacen de Videojuegos
