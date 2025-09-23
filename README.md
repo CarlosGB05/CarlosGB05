@@ -2,7 +2,7 @@
 ## Desarrollo de Aplicaciones Multiplataforma (IES Alonso de Ercilla)
 ---
 #### Proyectos desarrolados
-**Proyecto en Java,HTML,CSS,PostgreSQL
+**Proyecto en Java,HTML,CSS,PostgreSQL**
 - Gestion de Consolas y Videojuegos
 
 **Proyectos en C# y XAML (Avalonia)**
