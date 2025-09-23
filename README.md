@@ -1,4 +1,11 @@
-## Hi there 👋
+# Proyectos
+## Desarrollo de Aplicaciones Multiplataforma (IES Alonso de Ercilla)
+---
+#### Proyectos desarrolados
+**Proyectos en C# y XAML (Avalonia)**
+- Gestion de Boligrafos
+- Almacen de Videojuegos
+
 
 <!--
 **CarlosGB05/CarlosGB05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
