@@ -5,6 +5,9 @@
 **Proyecto en Java,HTML,CSS,PostgreSQL**
 - Gestion de Consolas y Videojuegos
 
+**Proyectos en Python**
+- [Registrarse e Iniciar Usuario](https://github.com/CarlosGB05/Login_Registro)
+
 **Proyectos en C# y XAML (Avalonia)**
 - [Gestion de Boligrafos](https://github.com/CarlosGB05/Bindings)
 - Almacen de Videojuegos
