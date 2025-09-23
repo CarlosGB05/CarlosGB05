@@ -3,7 +3,7 @@
 ---
 #### Proyectos desarrolados
 **Proyectos en C# y XAML (Avalonia)**
-- Gestion de Boligrafos
+- [Gestion de Boligrafos](https://github.com/CarlosGB05/Bindings)
 - Almacen de Videojuegos
 
 
