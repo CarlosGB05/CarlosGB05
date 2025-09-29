@@ -10,7 +10,7 @@
 
 **Proyectos en C# y XAML (Avalonia)**
 - [Gestion de Boligrafos](https://github.com/CarlosGB05/Bindings)
-- Almacen de Videojuegos
+- [Registro de Álbumnes Musicales](https://github.com/CarlosGB05/Proyecto_GuitarSongs)
 
 
 <!--
