@@ -5,9 +5,6 @@
 **Proyecto en Java,HTML,CSS,PostgreSQL**
 - [Gestion de Consolas y Videojuegos](https://github.com/CarlosGB05/Proyecto_Final_CFGS_1)
 
-**Proyectos en Python**
-- [Registrarse e Iniciar Usuario](https://github.com/CarlosGB05/Login_Registro)
-
 **Proyectos en C# y XAML (Avalonia)**
 - [Registro de Álbumes Musicales](https://github.com/CarlosGB05/Proyecto_GuitarSongs)
 
